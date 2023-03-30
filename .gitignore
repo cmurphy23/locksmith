@@ -1,3 +1,6 @@
 venv/
 dist/
 locksmith.egg-info/
+/TODO
+.idea/
+__pycache__/
